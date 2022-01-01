@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: RS03AXPS-SF03A-3D-SPKIRA301-streamed-spkir_a_configuration_record
-last_request: '2021-12-21T23:10:27.685195Z'
+last_request: '2022-01-01T01:25:08.187301Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03AXPS-SF03A-3D-SPKIRA301-streamed-spkir_a_configuration_record/main/history/response.json
 status: discontinued
